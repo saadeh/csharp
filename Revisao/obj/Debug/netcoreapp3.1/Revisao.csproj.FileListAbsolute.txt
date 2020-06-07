@@ -1,0 +1,11 @@
+C:\csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
