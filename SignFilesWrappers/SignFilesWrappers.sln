@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignFilesWrappers", "..\..\..\..\Downloads\SignFilesWrappers\SignFilesWrappers\SignFilesWrappers.csproj", "{DAFD841D-BF6E-4621-9D6B-D4EEC797FF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFD841D-BF6E-4621-9D6B-D4EEC797FF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFD841D-BF6E-4621-9D6B-D4EEC797FF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFD841D-BF6E-4621-9D6B-D4EEC797FF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFD841D-BF6E-4621-9D6B-D4EEC797FF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4586E60-18F2-4FD9-AE69-5838B837A98E}
+	EndGlobalSection
+EndGlobal

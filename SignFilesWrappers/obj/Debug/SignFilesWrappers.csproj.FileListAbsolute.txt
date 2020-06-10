@@ -1,0 +1,5 @@
+C:\Users\ti.wilson\Downloads\SignFilesWrappers\SignFilesWrappers\bin\Debug\SignFilesWrappers.dll
+C:\Users\ti.wilson\Downloads\SignFilesWrappers\SignFilesWrappers\bin\Debug\SignFilesWrappers.pdb
+C:\Users\ti.wilson\Downloads\SignFilesWrappers\SignFilesWrappers\obj\Debug\SignFilesWrappers.csprojAssemblyReference.cache
+C:\Users\ti.wilson\Downloads\SignFilesWrappers\SignFilesWrappers\obj\Debug\SignFilesWrappers.dll
+C:\Users\ti.wilson\Downloads\SignFilesWrappers\SignFilesWrappers\obj\Debug\SignFilesWrappers.pdb

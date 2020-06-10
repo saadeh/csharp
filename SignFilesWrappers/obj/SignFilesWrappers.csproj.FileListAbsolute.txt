@@ -1,0 +1,5 @@
+C:\Projetos\SISTEMA_AF\Projetos\SignFilesWrappers\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SISTEMA_AF\Projetos\SignFilesWrappers\bin\Debug\SignFilesWrappers.dll
+C:\Projetos\SISTEMA_AF\Projetos\SignFilesWrappers\bin\Debug\SignFilesWrappers.pdb
+C:\Projetos\SISTEMA_AF\Projetos\SignFilesWrappers\obj\Debug\SignFilesWrappers.dll
+C:\Projetos\SISTEMA_AF\Projetos\SignFilesWrappers\obj\Debug\SignFilesWrappers.pdb
